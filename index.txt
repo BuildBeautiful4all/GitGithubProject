@@ -1,0 +1,6 @@
+Hello I am Bipin, this is the list of all colors:
+Red
+Yellow
+Blue
+Green
+Black
